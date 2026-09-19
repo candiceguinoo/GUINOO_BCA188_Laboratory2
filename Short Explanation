@@ -1,0 +1,1 @@
+This shows that the lamp brightness depends on the switch state. When the switch is ON, the lamp uses the brightness setting. When the switch is OFF, the lamp brightness becomes 0, while the brightness setting remains unchanged.
